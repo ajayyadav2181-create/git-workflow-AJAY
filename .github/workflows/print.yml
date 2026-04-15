@@ -6,7 +6,7 @@ on:
       - Master
 
 jobs:
-  say-Hello:
+  say-hello:
     runs on: ubuntu-latest
 
     steps: 
@@ -15,4 +15,3 @@ jobs:
 
       - name: Print a message 1
         run: echo "Hey! A push cetected on Master Branch"
-          
