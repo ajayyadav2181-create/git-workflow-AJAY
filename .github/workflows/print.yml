@@ -13,6 +13,5 @@ jobs:
       - name: Print a message
         run: echo "Hello! A push detected on Main Branch"
 
-      - name: Print a message 1
-        run: echo "Hey! A push cetected on Master Branch"
+    
         
