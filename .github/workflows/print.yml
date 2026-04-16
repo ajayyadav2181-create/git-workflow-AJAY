@@ -3,7 +3,7 @@ on:
   push: 
     branches:
       - main
-      - Master
+      - master
 
 jobs:
   say-hello:
